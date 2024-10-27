@@ -24,6 +24,15 @@ How this mini project is useful:
 8. Automates routine tasks for administrators.
 9. Improves placement outcomes.
 10. Boosts overall efficiency in the placement process.
+
+Snippets:
+
+![Picture1](https://github.com/user-attachments/assets/b6453a51-3092-4972-8b32-4a1b7c87b178)
+![Picture2](https://github.com/user-attachments/assets/7d681401-e549-4cfd-90d3-430e0b1c2b31)
+![Picture3](https://github.com/user-attachments/assets/02fe5cf8-2adb-4e82-bba4-132d5aa013e5)
+![Picture4](https://github.com/user-attachments/assets/c1d82e58-1500-4da0-9b8d-2c6610aaa378)
+
+
     
 References:
 Books reffered: 
